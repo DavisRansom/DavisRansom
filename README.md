@@ -2,7 +2,7 @@ Hi, I’m @DavisRansom!
 
 I am a budding web developer based out of San Diego, with a degree in Psychology, a Masters in Education, and just over 15 years of teaching experience. I have now entered the tech space, I am learning so much every single day, and I am so stoked to see where it all takes me!
 
-I’m fascinate by attempting to master web development, and I love volleyball, psychology, reading, and any other interesting ideas!
+I’m fascinated by attempting to master web development, and I love volleyball, psychology, reading, and any other interesting ideas!
 
 I’m currently learning full-stack web development through UCSD's Bootcamp. Right now we have been interacting a lot with JavaScript and we were just briefly introduced to jQuery and Bootstrap.
 
