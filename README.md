@@ -15,5 +15,5 @@ I’m excited to collaborate on a project where I can learn more about, and help
 Let's connect!
 Email davis.ransom.tech@gmail.com
 GitHub https://github.com/DavisRansom
-Phone (619)204-2957
+Phone (619) 204-2957
 
