@@ -6,7 +6,7 @@ I’m currently learning full-stack web development through UCSD's Bootcamp. Rig
 
 I’m fascinated by attempting to master web development, but I also bring a "very particular set of skills", including: leadership and coaching, classroom teaching, and I learned all aspects of business management by starting a non-profit organization designed to increase access to volleyball by providing affordable, excellent coaching, and being the CEO of that organization for over years. 
 
-I also work (nearly full-time) for Accel Robotics, which is an innovator and provider of AI guided, checker-less stores. At Accel Robotics I supervise a small group at the AI Cart Review Team.
+I also work for Accel Robotics, an innovator and provider of AI-guided, checkerless stores. At Accel Robotics I am a Independent Contractor working with the AI Cart Review Team.
 
 Also, I have been a professional volleyball coach for 25 years, currently coaching elite juniors volleyball at a top club in the nation, and even. coaching collegiately.
 
