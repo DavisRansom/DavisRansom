@@ -6,7 +6,7 @@ I’m currently 3 weeks away from my Cerificate in Full-stack Web Development th
 
 I’m fascinated by attempting to master web development, but I also bring a "very particular set of skills", including:
 
-a. Leadership and Coaching at one of the country's top athletic clubs
+a. Leadership and Coaching at one of the country's top athletic clubs<br>
 b. Classroom Teaching for nearly 15 years at three of San Diego County's top private and public schools
 c. Business Management through starting a Non-Profit Organization designed to increase access to volleyball in under"served" communities. As the CEO of that organization we grossed nearly $1 million since its inception and have been the starting point for many athletes who have gone on to play in college. 
 
